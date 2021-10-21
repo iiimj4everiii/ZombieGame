@@ -1,0 +1,44 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Game.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+  Projectile.cpp
+c:\users\ming\desktop\game\zombiegame\projectile.cpp(46): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\ming\desktop\game\zombiegame\projectile.cpp(66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ming\desktop\game\zombiegame\projectile.cpp(67): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ming\desktop\game\zombiegame\projectile.cpp(70): warning C4018: '>=': signed/unsigned mismatch
+  Player.cpp
+c:\users\ming\desktop\game\zombiegame\player.cpp(49): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\ming\desktop\game\zombiegame\player.cpp(55): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\ming\desktop\game\zombiegame\player.cpp(61): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\ming\desktop\game\zombiegame\player.cpp(67): warning C4305: '+=': truncation from 'double' to 'float'
+  MainGame.cpp
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(92): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(169): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(181): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(184): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(191): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(194): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(200): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(228): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(248): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(252): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(291): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(354): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(401): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(406): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\maingame.cpp(411): warning C4018: '<': signed/unsigned mismatch
+  Human.cpp
+  Enemy.cpp
+c:\users\ming\desktop\game\zombiegame\enemy.cpp(56): warning C4018: '<': signed/unsigned mismatch
+  Agent.cpp
+c:\users\ming\desktop\game\zombiegame\agent.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\ming\desktop\game\zombiegame\agent.cpp(80): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+  ZombieGame.vcxproj -> C:\Users\Ming\Desktop\Game\Debug\ZombieGame.exe
+  ZombieGame.vcxproj -> C:\Users\Ming\Desktop\Game\Debug\ZombieGame.pdb (Partial PDB)
